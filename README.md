@@ -5,7 +5,7 @@ Sean Manoukian and Michael N. Gagnon
 ## Contents
 
 * [Introduction](#intro)
-* Project 1: Lights Out
+* [Project 1: Lights Out](https://github.com/SeanManoukian/textbookproject1/blob/master/README.md)
 * Project 2: Thumb Wrestling
 * Project 3: Linked Lists
 * Project 4: Doubly Linked Lists
