@@ -4,7 +4,7 @@ Sean Manoukian and Michael N. Gagnon
 
 ## Contents
 
-* Introduction
+* [Introduction](#intro)
 * Project 1: Lights Out
 * Project 2: Thumb Wrestling
 * Project 3: Linked Lists
@@ -18,10 +18,7 @@ Sean Manoukian and Michael N. Gagnon
 * Project 11: Checkers AI
 * Project 12: Chess AI
 
+## <a name="intro">Introduction</a>
 
-
-
-
-
-
+Introduction TODO.
 
