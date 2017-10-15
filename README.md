@@ -1,3 +1,3 @@
 # JavaScript Projects
 
-### Table of Contents
+## Contents
