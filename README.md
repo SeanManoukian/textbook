@@ -1,5 +1,7 @@
 # JavaScript Projects
 
+Sean Manoukian and Michael N. Gagnon
+
 ## Contents
 
 #### Introduction
