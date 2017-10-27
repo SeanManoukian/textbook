@@ -20,5 +20,5 @@ Sean Manoukian and Michael N. Gagnon
 
 ## <a name="intro">Introduction</a>
 
-Each project is a text book of sorts. They are designed to accompany the [lecture notes](https://github.com/mikegagnon/js-course). 
+Each project is a text book of sorts. They are designed to accompany the [courses](https://github.com/mikegagnon/js-course). The idea is to give the user a better understanding of the courses. Each course increases in difficulty as you go along, so it is advised to do them in order.
 
