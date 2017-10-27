@@ -20,5 +20,5 @@ Sean Manoukian and Michael N. Gagnon
 
 ## <a name="intro">Introduction</a>
 
-Introduction TODO.
+Each project is a text book of sorts. They are designed to accompany the [lecture notes](https://github.com/mikegagnon/js-course). 
 
